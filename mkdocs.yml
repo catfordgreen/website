@@ -1,0 +1,30 @@
+site_name: Catford Green
+site_url: https://catfordgreen.org.uk/
+repo_url: https://github.com/catfordgreen/website
+repo_name: catfordgreen/website
+
+theme:
+  name: material
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - toc.follow
+    - content.action.edit
+    - content.code.copy
+    - announce.dismiss
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/437613156430168
+
+plugins:
+  - privacy
+  - search
+  - macros
+  - social:
+      enabled: true
