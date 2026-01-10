@@ -1,7 +1,8 @@
 site_name: Catford Green
 site_url: https://catfordgreen.org.uk/
-repo_url: https://github.com/catfordgreen/website
 repo_name: catfordgreen/website
+repo_url: https://github.com/catfordgreen/website
+edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md

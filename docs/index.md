@@ -1,6 +1,13 @@
 # Catford Green
 
-Catford Green is a modern, up-market residential community in the heart of Catford Lewisham, set beside Ladywell Fields and moments from Catford and Catford Bridge stations. This site is a resident-led hub for sharing local knowledge, building know-how, and ways to make the most of living here.
+Catford Green is a modern, up-market residential community in the heart of Catford, Lewisham, set beside Ladywell Fields and the River Ravensbourne. On the former greyhound stadium site, it brings nearly 600 one, two, and three-bedroom homes across 12 buildings, with riverside paths and a plaza between Catford and Catford Bridge stations. This site is a resident-led hub for sharing local knowledge, building know-how, and ways to make the most of living here.
+
+### Why Catford Green works
+- Quick connections: two stations on the doorstep (Catford and Catford Bridge station) - London Bridge about 11 minutes, Charing Cross 22, Waterloo 23, Canary Wharf 25, St Pancras 32.
+- Green space: Ladywell Fields, the River Ravensbourne, and the River Pool path are on our doorstep.
+- Daily ease: Sainsbury's Local, Dolce Dessert & Cafe, and Catford High Street are only a short walk away.
+- Neighbourly: Resident WhatsApp groups and associations keep it welcoming and well-informed.
+
 
 ## Explore the courts
 - [Abbey Court](abbey-court/index.md)
@@ -31,8 +38,3 @@ Are you a Catford Green resident? We would love your ideas, photos, and tips to 
 
 - Contribute content suggestions or fixes on GitHub: https://github.com/catfordgreen/website/issues
 - Share updates for your court page, or propose new guides that would help neighbours.
-
-## Contribute
-- Spot something to improve? Open an issue: https://github.com/catfordgreen/website/issues
-- Comfortable with GitHub? Send a pull request with a short note about the change.
-
