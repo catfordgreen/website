@@ -3,7 +3,7 @@
 Catford Green is surrounded by parks, riverside paths, and community sports facilities—all within a short walk of the development.
 
 ## Parks and walks
-- Ladywell Fields and River Pool Linear Park: riverside paths, playgrounds, and picnic spots just across the road. More info from Lewisham Council: https://lewisham.gov.uk/inmyarea/openspaces/parks/riverview-walk-and-river-pool-linear-park
+- Ladywell Fields and River Pool Linear Park: riverside paths, playgrounds, and picnic spots just across the road. More info from Lewisham Council: https://lewisham.gov.uk/inmyarea/openspaces/parks/ladywell-fields and https://lewisham.gov.uk/inmyarea/openspaces/parks/riverview-walk-and-river-pool-linear-park
 - River Pool path: a traffic-free walking and cycling link towards Catford, Lower Sydenham, and beyond.
 - Friends of Ladywell Fields updates: https://ladywellfields.blogspot.com/
 
@@ -20,7 +20,7 @@ Catford Green is surrounded by parks, riverside paths, and community sports faci
 - Local clean-ups and planting days are often posted by the Friends groups; watch their feeds for dates.
 
 ## Markets and food
-- Catford Food Market (last Sunday each month on Adenmore Road outside Catford Bridge Station): updates on Instagram https://www.instagram.com/catfordfoodmarket/, Facebook https://www.facebook.com/CatfordFoodMarket/, and X https://x.com/catfordfoodmkt
+- Catford Food Market (last Sunday each month on Adenmore Road outside Catford Bridge Station): updates on Instagram https://www.instagram.com/catfordfoodmarket/, and Facebook https://www.facebook.com/CatfordFoodMarket/
 
 ## Contribute
 - Know another nearby park, club, or route? Add it here, or open an issue on GitHub: https://github.com/catfordgreen/website
