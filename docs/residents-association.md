@@ -24,3 +24,7 @@ Firstport manages all Catford Green buildings and the wider estate. Resident ass
 - Intro note to residents: who you are, why the association exists, how to join.
 - Meeting note headings: date, attendees, issues raised, actions, owners.
 - Contact footer: chair, secretary, treasurer + shared email.
+
+## Contribute
+- Spot something to improve? Open an issue: https://github.com/catfordgreen/website/issues
+- Comfortable with GitHub? Send a pull request with a short note about the change.

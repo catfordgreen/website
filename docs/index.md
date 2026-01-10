@@ -32,3 +32,7 @@ Are you a Catford Green resident? We would love your ideas, photos, and tips to 
 - Contribute content suggestions or fixes on GitHub: https://github.com/catfordgreen/website/issues
 - Share updates for your court page, or propose new guides that would help neighbours.
 
+## Contribute
+- Spot something to improve? Open an issue: https://github.com/catfordgreen/website/issues
+- Comfortable with GitHub? Send a pull request with a short note about the change.
+

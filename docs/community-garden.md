@@ -11,3 +11,7 @@ There is a shared herb garden with benches in the centre of the development. Res
 </iframe>
 <br />
 <small><a href="https://www.openstreetmap.org/?mlat=51.448432&mlon=-0.024805#map=17/51.44843/-0.02481">View larger map</a></small>
+
+## Contribute
+- Spot something to improve? Open an issue: https://github.com/catfordgreen/website/issues
+- Comfortable with GitHub? Send a pull request with a short note about the change.

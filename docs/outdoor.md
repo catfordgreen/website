@@ -23,5 +23,6 @@ Catford Green is surrounded by parks, riverside paths, and community sports faci
 - Catford Food Market (last Sunday each month on Adenmore Road outside Catford Bridge Station): updates on Instagram https://www.instagram.com/catfordfoodmarket/, and Facebook https://www.facebook.com/CatfordFoodMarket/
 
 ## Contribute
-- Know another nearby park, club, or route? Add it here, or open an issue on GitHub: https://github.com/catfordgreen/website
+- Spot another nearby park, club, or route? Open an issue: https://github.com/catfordgreen/website/issues
+- Comfortable with GitHub? Send a pull request with a short note about the change.
 

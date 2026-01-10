@@ -19,3 +19,7 @@ Catford Green is a welcoming, well-connected place to live with fast links into 
 
 ## Have suggestions?
 - Propose additions for buyers and renters, or share tips that helped you settle in.
+
+## Contribute
+- Spot something to improve? Open an issue: https://github.com/catfordgreen/website/issues
+- Comfortable with GitHub? Send a pull request with a short note about the change.

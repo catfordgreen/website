@@ -32,3 +32,7 @@ _A placeholder page for Dunstone Court. Add address details, key contacts, and r
 - Add FAQs for owners and tenants.
 - Add photos of signage, access points, and plant rooms.
 - Share any building-specific quirks new residents should know.
+
+## Contribute
+- Spot something to improve? Open an issue: https://github.com/catfordgreen/website/issues
+- Comfortable with GitHub? Send a pull request with a short note about the change.

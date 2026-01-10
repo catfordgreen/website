@@ -9,3 +9,7 @@
 
 ## Sports and holiday camps
 - Munchkin Sports: school-holiday camps and weekend sports classes for children. Details and booking: https://munchkinsports.com/
+
+## Contribute
+- Spot something to improve? Open an issue: https://github.com/catfordgreen/website/issues
+- Comfortable with GitHub? Send a pull request with a short note about the change.
