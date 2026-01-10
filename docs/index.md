@@ -24,7 +24,7 @@ Catford Green is a modern, up-market residential community in the heart of Catfo
 
 ## Residents associations
 - Estate management: Firstport manages all Catford Green buildings and the wider estate.
-- Residents associations: Dixie Court is active; other courts are encouraged to form one. See the guide: [residents-association.md](residents-association.md)
+- Residents associations: Dixie Court is active; other courts are encouraged to form one. See the guide: [Residents association guide](residents-association.md)
 
 ## Get involved
 Are you a Catford Green resident? We would love your ideas, photos, and tips to keep this resource useful.

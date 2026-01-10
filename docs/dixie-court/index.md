@@ -14,7 +14,7 @@ _A placeholder page for Dixie Court. Add address details, key contacts, and resi
 
 ## Residents association
 - Status: Active Dixie Court residents' association. Add contact/join details and meeting cadence.
-- Guide: See the residents association guide for steps and what to publish: ../residents-association.md
+- Guide: See the residents association guide for steps and what to publish: [Residents association guide](../residents-association.md)
 
 ## Building notes
 - Entrances and access control details.

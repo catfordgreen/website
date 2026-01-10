@@ -17,7 +17,7 @@ _A placeholder page for Grosvenor Court. Add address details, key contacts, and 
 
 ## Residents association
 - Status: Association in formation. First meeting to be announced to all residents and owners during January 2026. Add contact/join details after the meeting invite is issued.
-- Guide: See the residents association guide for steps and what to publish: ../residents-association.md
+- Guide: See the residents association guide for steps and what to publish: [Residents association guide](../residents-association.md)
 
 ## Building notes
 - Entrances and access control details.

@@ -14,7 +14,7 @@ _A placeholder page for Burgess Court. Add address details, key contacts, and re
 
 ## Residents association
 - Status: No residents' association yet. Residents are encouraged to form one; add contact details here when set up.
-- Guide: See the residents association guide for steps and what to publish: ../residents-association.md
+- Guide: See the residents association guide for steps and what to publish: [Residents association guide](../residents-association.md)
 
 ## Building notes
 - Entrances and access control details.
