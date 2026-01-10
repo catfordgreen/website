@@ -22,6 +22,11 @@ _A placeholder page for Firgrove Court. Add address details, key contacts, and r
 - Meter and plant access (gas, electric, water).
 - Delivery and parcel handling tips.
 
+## Waste and recycling
+- Recycling: collected weekly on Tuesday.
+- Refuse: collected weekly on Tuesday.
+- Check for holiday changes or updates: https://lewisham.gov.uk/myservices/recycling-and-rubbish/your-bins/collection
+
 ## Maintenance and tips
 - Heating/boiler/radiator notes.
 - Ventilation and extractor settings.
