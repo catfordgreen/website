@@ -2,7 +2,7 @@
 
 ## Nurseries and pre-schools
 - Little Elms Daycare (on-site at Catford Green): https://www.littleelmsdaycare.co.uk/nurseries/catford-green/
-- Ladywell Pre-school (well-regarded, nearby).
+- Ladywell Pre-school (well-regarded, nearby): https://www.daynurseries.co.uk/daynursery.cfm/searchazref/65432217477
 
 ## Nature and outdoor sessions
 - Wildcat Wilderness: a community green space off Catford Hill run with Lewisham Local. Explore nature, volunteer, learn outdoor skills/crafts, or join family-friendly sessions. Events for adults and children: https://wildcatwilderness.org/
