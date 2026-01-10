@@ -3,6 +3,8 @@ site_url: https://catfordgreen.org.uk/
 repo_name: catfordgreen/website
 repo_url: https://github.com/catfordgreen/website
 edit_uri: edit/main/docs/
+site_description: Resident-led guide to Catford Green in Lewisham.
+site_author: Catford Green residents
 
 nav:
   - Home: index.md
@@ -29,12 +31,21 @@ nav:
 
 theme:
   name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: green
+      accent: amber
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
     - search.suggest
     - toc.follow
     - content.action.edit
@@ -47,7 +58,18 @@ extra:
       link: https://www.facebook.com/groups/437613156430168
 
 markdown_extensions:
+  - admonition
+  - footnotes
   - pymdownx.magiclink
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.gemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - toc:
+      permalink: true
 
 plugins:
   - privacy
