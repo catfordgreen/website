@@ -18,11 +18,11 @@ nav:
     - Harlie Court: harlie-court/index.md
     - Lawrence Court: lawrence-court/index.md
     - Westmead Court: westmead-court/index.md
-    - Living here:
-      - Overview: living-here.md
-      - Families and childcare: childcare.md
-      - Outdoor: outdoor.md
-      - Community Garden: community-garden.md
+  - Living here:
+    - Overview: living-here.md
+    - Families and childcare: childcare.md
+    - Outdoor: outdoor.md
+    - Community Garden: community-garden.md
   - Community:
     - Residents Associations: residents-association.md
 
