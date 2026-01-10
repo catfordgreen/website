@@ -1,6 +1,6 @@
 # Catford Green
 
-Catford Green is a modern, up-market residential community in the heart of Catford, Lewisham, set beside Ladywell Fields and the River Ravensbourne. On the former greyhound stadium site, it brings nearly 600 one, two, and three-bedroom homes across 12 buildings, with riverside paths and a plaza between Catford and Catford Bridge stations. This site is a resident-led hub for sharing local knowledge, building know-how, and ways to make the most of living here.
+Catford Green is a modern, up-market residential community in the heart of Catford, Lewisham, set beside Ladywell Fields and the River Ravensbourne. On the former greyhound stadium site, it has nearly 600 one, two, and three-bedroom homes across 12 buildings, with riverside paths and a plaza between Catford and Catford Bridge stations. This site is a resident-led hub for sharing local knowledge, building know-how, and ways to make the most of living here.
 
 ### Why Catford Green works
 - Quick connections: two stations on the doorstep (Catford and Catford Bridge station) - London Bridge about 11 minutes, Charing Cross 22, Waterloo 23, Canary Wharf 25, St Pancras 32.
