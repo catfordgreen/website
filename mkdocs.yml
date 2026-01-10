@@ -3,6 +3,29 @@ site_url: https://catfordgreen.org.uk/
 repo_url: https://github.com/catfordgreen/website
 repo_name: catfordgreen/website
 
+nav:
+  - Home: index.md
+  - Buildings:
+    - Abbey Court: abbey-court/index.md
+    - Appleby Court: appleby-court/index.md
+    - Burgess Court: burgess-court/index.md
+    - Dempsey Court: dempsey-court/index.md
+    - Dixie Court: dixie-court/index.md
+    - Dunstone Court: dunstone-court/index.md
+    - Ferdinand Court: ferdinand-court/index.md
+    - Firgrove Court: firgrove-court/index.md
+    - Grosvenor Court: grosvenor-court/index.md
+    - Harlie Court: harlie-court/index.md
+    - Lawrence Court: lawrence-court/index.md
+    - Westmead Court: westmead-court/index.md
+    - Living here:
+      - Overview: living-here.md
+      - Families and childcare: childcare.md
+      - Outdoor: outdoor.md
+      - Community Garden: community-garden.md
+  - Community:
+    - Residents Associations: residents-association.md
+
 theme:
   name: material
   features:
@@ -21,6 +44,9 @@ extra:
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/groups/437613156430168
+
+markdown_extensions:
+  - pymdownx.magiclink
 
 plugins:
   - privacy
