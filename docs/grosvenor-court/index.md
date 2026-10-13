@@ -9,15 +9,15 @@ _A placeholder page for Grosvenor Court. Add address details, key contacts, and 
 - Commercial Unit 2: [Sainsbury's Catford Station Local](https://stores.sainsburys.co.uk/5048/catford-station-local).
 
 ## Residents' WhatsApp
-- Add the invite link to the Grosvenor Court residents' WhatsApp group.
+- Grosvenor Court residents' WhatsApp group open to anyone living in the building. Ask a neighbour to add you.
+- Grosvenor Court also has a homeowners' WhatsApp group. Ask in the above residents' group on how to join.
 
 ## Contacts
 - Managing agent: Firstport (estate and building management)
 - Emergency / out-of-hours: See the notice board near the building entrance for the current number.
 
 ## Residents association
-- Status: Association in formation. First meeting to be announced to all residents and owners during January 2026. Add contact/join details after the meeting invite is issued.
-- Guide: See the residents association guide for steps and what to publish: [Residents association guide](../residents-association.md)
+- Grosvenor Court Residents' Association (GCRA) formally recognised Residents' Association. Open to any Grosvenor resident or homeowner. To join, ask via the Grosvenor Court residents' WhatsApp group.
 
 ## Building notes
 - Entrances and access control details.
