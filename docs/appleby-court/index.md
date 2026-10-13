@@ -1,9 +1,9 @@
 # Appleby Court
 
-_A placeholder page for Appleby Court. Add address details, key contacts, and resident resources._
+_This is an initial page for Appleby Court._
 
 ## Address
-- Add full postal address and any entrance description.
+- 1 – 53 Appleby Court, Adenmore Road, London, SE6 4EJ.
 
 ## Residents' WhatsApp
 - Add the invite link to the Appleby Court residents' WhatsApp group.
