@@ -4,6 +4,8 @@ _A placeholder page for Dempsey Court. Add address details, key contacts, and re
 
 ## Address
 - 1–24 Dempsey Court, Adenmore Road, London, SE6 4BS
+- Little Elms Catford Green: Dempsey Court, Adenmore Road, London, SE6 4BS
+- Catford Green Firstport Development Manager Office: Dempsey Court, Adenmore Road, London, SE6 4BS
 
 ## Residents' WhatsApp
 - Add the invite link to the Dempsey Court residents' WhatsApp group.
