@@ -1,6 +1,6 @@
 # Abbey Court
 
-_A placeholder page for Abbey Court. Add address details, key contacts, and resident resources._
+_This is an initial page for Abbey Court._
 
 ## Address
 - 1–16 Abbey Court, Adenmore Road, London, SE6 4EE
