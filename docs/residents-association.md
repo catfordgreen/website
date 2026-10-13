@@ -3,14 +3,17 @@
 Firstport manages all Catford Green buildings and the wider estate. Resident associations help coordinate issues, escalate repairs, and keep communication clear between neighbours and Firstport.
 
 ## Current status
-- Existing: Dixie Court residents' association (add contact/join link).
-- Forming: other courts are encouraged to start their own groups. Share your details on your court page once set up.
+- Dixie Court Residents' association (DCRA) is a fully recognised Residents' Association
+- Grosvenor Court Residents' Association (GCRA) is a fully recognised Residents' Association
+- Pending: Appleby Court Residents' Association (ACRA) - Ask to join via Residents' WhatsApp Group.
+- Pending: Ferdinand Court Residents' Association (FCRA) - Ask to join via Residents' WhatsApp Group.
+- Next? Other courts are encouraged to start their own groups. Share your details on your court page once set up.
 
 ## How to start an association
 1. Find interested neighbours (owners and tenants). Use block WhatsApp groups, notice boards, or door drops.
 2. Agree a few priorities (repairs, grounds care, security, comms with Firstport).
 3. Elect three roles: chair, secretary, treasurer. Keep roles light but accountable.
-4. Set a shared channel (WhatsApp/Signal) for quick chat and an email for formal notes.
+4. Set a shared channel (WhatsApp) for quick chat and an email for formal notes.
 5. Meet briefly (even online). Keep short minutes and share with residents and Firstport.
 6. Register a contact with Firstport so they know who to reach for building-wide matters.
 
