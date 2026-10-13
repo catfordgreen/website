@@ -1,20 +1,21 @@
 # Dixie Court
 
-_A placeholder page for Dixie Court. Add address details, key contacts, and resident resources._
+_This is an initial page for Dixie Court, key contacts, and resident resources._
 
 ## Address
-- Add full postal address and any entrance description.
+- 1 - 91 Dixie Court, Adenmore Road, London, SE6 4FA
+- 92 - 126 Dixie Court, Adenmore Road, London, SE6 4FB
 
 ## Residents' WhatsApp
-- Add the invite link to the Dixie Court residents' WhatsApp group.
+- Dixie Court has a residents' only WhatsApp group, see the notice board in reception on how to join. 
 
 ## Contacts
 - Managing agent: Firstport (estate and building management)
 - Emergency / out-of-hours: See the notice board near the building entrance for the current number.
 
 ## Residents association
-- Status: Active Dixie Court residents' association. Add contact/join details and meeting cadence.
-- Guide: See the residents association guide for steps and what to publish: [Residents association guide](../residents-association.md)
+- Status: Active Dixie Court residents' association (DCRA). See the DCRA on the notice board in reception on how to join
+- Other building? See the [Residents association guide](../residents-association.md)
 
 ## Building notes
 - Entrances and access control details.
