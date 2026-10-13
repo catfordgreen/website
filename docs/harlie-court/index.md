@@ -3,7 +3,7 @@
 _A placeholder page for Harlie Court. Add address details, key contacts, and resident resources._
 
 ## Address
-- Add full postal address and any entrance description.
+- 1-30 Harlie Court, Adenmore Road, London, SE6 4ED
 
 ## Residents' WhatsApp
 - Add the invite link to the Harlie Court residents' WhatsApp group.
