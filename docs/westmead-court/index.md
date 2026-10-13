@@ -3,7 +3,7 @@
 _A placeholder page for Westmead Court. Add address details, key contacts, and resident resources._
 
 ## Address
-- Add full postal address and any entrance description.
+- 1-34 Westmead Court, Adenmore Road, London, SE6 4EB
 
 ## Residents' WhatsApp
 - Add the invite link to the Westmead Court residents' WhatsApp group.
