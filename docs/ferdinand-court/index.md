@@ -7,14 +7,14 @@ _A placeholder page for Ferdinand Court. Add address details, key contacts, and 
 - 67–132 Ferdinand Court, Adenmore Road, London, SE6 4BL
 
 ## Residents' WhatsApp
-- Add the invite link to the Ferdinand Court residents' WhatsApp group.
+- Ferdinand Court has a residents' WhatsApp group. Ask a neighbour to be invited to the group.
 
 ## Contacts
 - Managing agent: Firstport (estate and building management)
 - Emergency / out-of-hours: See the notice board near the building entrance for the current number.
 
 ## Residents association
-- Status: No residents' association yet. Residents are encouraged to form one; add contact details here when set up.
+- Status: We are forming a residents' association! We need you to join, please ask how to join in the residents' WhatsApp group.
 - Guide: See the residents association guide for steps and what to publish: [Residents association guide](../residents-association.md)
 
 ## Building notes
