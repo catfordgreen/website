@@ -6,6 +6,7 @@ _A placeholder page for Grosvenor Court. Add address details, key contacts, and 
 - Residential: 1–62 Grosvenor Court, Adenmore Road, London, SE6 4FD.
 - Residential: 63–92 Grosvenor Court, Adenmore Road, London, SE6 4FE.
 - Commercial Unit 1: [Dolce Dessert & Cafe](https://www.instagram.com/dolcedessertcafe/).
+- Commercial Unit 1B: The Good Living Store
 - Commercial Unit 2: [Sainsbury's Catford Station Local](https://stores.sainsburys.co.uk/5048/catford-station-local).
 
 ## Residents' WhatsApp
